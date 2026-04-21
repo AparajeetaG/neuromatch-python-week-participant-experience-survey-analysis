@@ -59,7 +59,7 @@ This project uses a **pre/post cross-sectional and longitudinal survey analysis 
 ### Analytical logic
 The workflow began with structured survey review and variable summarization. Open-ended responses were then reviewed and coded into thematic categories that reflected participant needs, sentiments, barriers, and improvement suggestions. These coded categories were aggregated into counts, proportions, and planning-relevant evidence summaries. The final stage focused on visual communication, using both static and interactive outputs to make the findings easier to interpret in a stakeholder setting.
 
-This approach is especially useful for program evaluation contexts where participant experience cannot be understood through numeric survey items alone. The analysis therefore prioritizes not just statistical description, but the translation of learner voice into evidence that is measurable, interpretable, and actionable.
+This approach is especially useful for program evaluation contexts where participant experience cannot be understood through numeric survey items alone. The analysis prioritizes not just statistical description, but the translation of learner voice into evidence that is measurable, interpretable, and actionable.
 
 ---
 
@@ -73,7 +73,7 @@ This repository demonstrates:
 - generation of **interactive web-based visualizations**
 - program-level interpretation of participant experience for future planning
 
-In practice, that means this project moves beyond simply reporting survey results. It builds a structured evaluation pipeline that links **participant voice**, **coded evidence**, **descriptive trends**, and **program recommendations**.
+It builds a structured evaluation pipeline that links **participant voice**, **coded evidence**, **descriptive trends**, and **program recommendations**.
 
 ---
 
