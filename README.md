@@ -1,5 +1,6 @@
 **Repository:** `neuromatch-python-week-program-evaluation-participant-experience-cross-sectional-longitudinal-survey-analysis`
 **Participant Experience &amp; Program Evaluation for Neuromatch Python Week:** A pre/post cross-sectional and longitudinal survey analysis that converts open-ended participant feedback into structured quantitative evidence through thematic coding, descriptive statistics, and interactive visualization.
+[View the interactive Python Week analysis report](https://aparajeetag.github.io/neuromatch-python-week-participant-experience-survey-analysis/)
 # Participant Experience & Program Evaluation for Neuromatch Python Week
 
 This repository contains a **participant experience and program evaluation analysis** for **Neuromatch Python Week**, designed to understand learner readiness, perceived progress, support needs, and improvement priorities through a combination of **pre/post cross-sectional and longitudinal survey analysis**, **qualitative thematic coding**, **descriptive statistics**, and **interactive visualization**.
@@ -119,5 +120,13 @@ This analysis was built from the following project materials:
 - stakeholder-focused visualization
 - evidence synthesis for program improvement
 
+## Data Ethics and Privacy Note
+
+This project is intended only for program evaluation, participant experience analysis, and training-improvement purposes. The public-facing report is designed to present aggregated findings, coded themes, descriptive statistics, and interactive visualizations without requiring access to the raw participant-level survey data.
+
+Raw survey responses may contain personally identifiable information, free-text comments, or internal program context, so they should not be shared publicly unless they have been reviewed, de-identified, and approved for release. Any interpretation of the results should also account for survey coverage, response imbalance between pre- and post-survey data, and the fact that open-ended qualitative feedback involves structured but interpretive thematic coding.
+
+The goal of this repository is to make the analysis transparent and useful while respecting participant privacy and responsible data-sharing practices. 
+© 2026 Aparajeeta Guha for analysis code and visual reporting; survey data and program materials belong to Neuromatch.
 ---
 
