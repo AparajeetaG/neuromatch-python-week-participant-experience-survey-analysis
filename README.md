@@ -107,7 +107,7 @@ This analysis was built from the following project materials:
 - Plotly
 - interactive HTML report generation
 
-### Analytical and program evaluation skills demonstrated
+### Analytical and program evaluation skills
 - survey analysis
 - participant experience analysis
 - pre/post program evaluation
