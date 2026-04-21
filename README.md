@@ -127,6 +127,8 @@ This project is intended only for program evaluation, participant experience ana
 Raw survey responses may contain personally identifiable information, free-text comments, or internal program context, so they should not be shared publicly unless they have been reviewed, de-identified, and approved for release. Any interpretation of the results should also account for survey coverage, response imbalance between pre- and post-survey data, and the fact that open-ended qualitative feedback involves structured but interpretive thematic coding.
 
 The goal of this repository is to make the analysis transparent and useful while respecting participant privacy and responsible data-sharing practices. 
+
+
 © 2026 Aparajeeta Guha for analysis code and visual reporting; survey data and program materials belong to Neuromatch.
 ---
 
